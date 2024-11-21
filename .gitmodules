@@ -4,3 +4,6 @@
 [submodule "source/GDKExtension_gml/extensions/GDKExtension/gdkextension_windows/libxml2"]
 	path = source/GDKExtension_gml/extensions/GDKExtension/gdkextension_windows/libxml2
 	url = https://gitlab.gnome.org/GNOME/libxml2.git
+[submodule "GDKExtension"]
+	path = GDKExtension
+	url = https://github.com/YoYoGames/GDKExtension.git
